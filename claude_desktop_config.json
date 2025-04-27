@@ -1,0 +1,9 @@
+{
+    "mcpServers": [
+      {
+        "name": "ゴミ捨てリマインダー",
+        "description": "毎朝7時にゴミ捨ての通知を行うツール",
+        "url": "http://localhost:3333"
+      }
+    ]
+  }
